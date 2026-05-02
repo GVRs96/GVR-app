@@ -3632,7 +3632,6 @@ function DispatchApp() {
 // ЛИДЫ
 // ════════════════════════════════════════════════════════════
 
-import { useState, useEffect } from "react";
 
 // ── Persistence
 const LS_LEADS = "leads_data_v2";
